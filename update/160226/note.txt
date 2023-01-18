@@ -1,0 +1,3 @@
+# update :
+
+* f_24 -> pada saat cetak massal, untuk kode jenis bumi vakum tidak akan tercetak.
